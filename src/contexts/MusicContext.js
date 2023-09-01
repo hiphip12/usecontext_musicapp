@@ -1,2 +1,2 @@
 import { createContext } from "react";
-export const MusciContext = createContext()
+export const MusicContext = createContext();
