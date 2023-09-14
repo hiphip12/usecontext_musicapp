@@ -14,3 +14,4 @@ The app has music play, pause and skip buttons to control and listen to 3 differ
 
 Music is from [Pixabay.com](https://pixabay.com/) by composer [Daddy_s_Music](https://pixabay.com/users/daddy_s_music-22836301/)
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=hiphip12_usecontext_musicapp)
